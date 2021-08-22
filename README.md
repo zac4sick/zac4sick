@@ -1,4 +1,4 @@
-<a href="#"><img width="50%" height="50%" src="https://i.imgur.com/QKoEB0s.jpg" height="175px"/></a>
+<a href="#"><img width="50%" height="50%" align="center" src="https://i.imgur.com/QKoEB0s.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yehan </h1>
 <h3 align="center">AKA Z4C.</h3>
