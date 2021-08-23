@@ -9,9 +9,9 @@
 BTW,
 
 - 🐱‍💻 I’m a Ethical Hacker / A Penitration testor / and a Cybersecurity Undergrad.
-- 🌱 and a Expertise on Content creation too ya,
+- 🕊  a Expertise on Content creation too,
 - 👯 Hoping to collabarate as a PenTester
-- 👌 Wanna know about ma repos,
+- 👌  Wanna know about ma repos,
 - 📫 Shoot me a message, If interested yehanwijerathne@gmail.com
 
 ## 🚀 Languages and Tools:
